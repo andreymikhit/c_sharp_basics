@@ -20,3 +20,6 @@ GeekBrains
 * Программа: подбор фильма
 
 Start _MS Visual Studio_
+* new project _HelloWorld_
+* Solution - Add new project _CinemaAdviser_
+* 
