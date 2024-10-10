@@ -59,11 +59,26 @@ _Add references_
 
 ![image](https://github.com/user-attachments/assets/ca101b65-5881-42d9-903a-b0610b2503a3)
 
+### Урок 5. Функции
+* цикл _for_
+* функции
 
-###
+![image](https://github.com/user-attachments/assets/846ed830-9e73-4df8-803f-f294bdc76689)
 
-###
+цикл _while_
+![image](https://github.com/user-attachments/assets/d497dbda-fd8c-4157-a6d0-1b32df58a514)
 
-###
+цикл _for_
+![image](https://github.com/user-attachments/assets/c11b9e38-48df-43f3-abfb-ddc07c41096e)
 
-###
+![image](https://github.com/user-attachments/assets/70b08859-b113-4b12-8c10-3ddebd14858d)
+
+![image](https://github.com/user-attachments/assets/e156dab0-2e22-45b4-b1b1-97d99c8eb906)
+
+### Урок 6. Разработка игры: часть 1
+* TurtleGame
+
+![image](https://github.com/user-attachments/assets/6a170ae4-cdf5-44a2-a3ad-03a6ee8813d3)
+
+
+### Урок 6. Разработка игры: часть 2
