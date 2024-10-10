@@ -80,5 +80,17 @@ _Add references_
 
 ![image](https://github.com/user-attachments/assets/6a170ae4-cdf5-44a2-a3ad-03a6ee8813d3)
 
+![image](https://github.com/user-attachments/assets/b7be2a94-241a-4966-b634-ae8a77fd04ce)
 
-### Урок 6. Разработка игры: часть 2
+
+### Урок 7. Разработка игры: часть 2
+* TurtleGame
+
+![image](https://github.com/user-attachments/assets/8cd0f998-822d-4e30-aa20-f0dc2f112887)
+
+![image](https://github.com/user-attachments/assets/99cd93eb-9ede-4e34-b8b5-3b064e7dd8fc)
+
+![image](https://github.com/user-attachments/assets/0df16707-4653-42b8-83b6-f6b64c9503e5)
+
+![image](https://github.com/user-attachments/assets/fbd0dc5a-1274-46c9-99b9-bb667950c83f)
+
