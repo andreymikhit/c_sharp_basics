@@ -24,3 +24,12 @@ Start _MS Visual Studio_
 * Solution - Add new project _CinemaAdviser_
 
 ![image](https://github.com/user-attachments/assets/c642edd6-c890-4d9c-9eef-0d1fc2603da9)
+
+### Урок 3. Ветвления. Целые числа
+
+![image](https://github.com/user-attachments/assets/dda92f73-5b95-456e-8808-75e8eef72047)
+
+```CPP
+double average = ( double ) ( num1 + num2 ) / 2;
+Console.WriteLine( average);
+```
