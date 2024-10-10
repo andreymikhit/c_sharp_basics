@@ -33,3 +33,26 @@ Start _MS Visual Studio_
 27: double average = ( double ) ( num1 + num2 ) / 2;
 28: Console.WriteLine( average);
 ```
+
+### Урок 4. Циклы
+* Черепашка
+* Циклы
+
+![image](https://github.com/user-attachments/assets/0d3200a6-0236-42b2-9dd8-8badd7600b40)
+
+* Add _console application_ and new project _TurtleTranining_
+
+![image](https://github.com/user-attachments/assets/526b3e11-ca23-4770-858f-815fab7cada8)
+
+* Install _Microsoft Soft Basic_
+
+![image](https://github.com/user-attachments/assets/1414940d-f3c2-4674-ab6f-0d6939a3977e)
+
+
+###
+
+###
+
+###
+
+###
