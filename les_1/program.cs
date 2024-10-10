@@ -1,4 +1,4 @@
-# 1. project program.cs
+# 1. project HelloWorld ... program.cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
