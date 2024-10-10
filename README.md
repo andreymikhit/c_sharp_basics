@@ -22,4 +22,5 @@ GeekBrains
 Start _MS Visual Studio_
 * new project _HelloWorld_
 * Solution - Add new project _CinemaAdviser_
-* 
+
+![image](https://github.com/user-attachments/assets/c642edd6-c890-4d9c-9eef-0d1fc2603da9)
