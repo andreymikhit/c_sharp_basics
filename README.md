@@ -30,6 +30,6 @@ Start _MS Visual Studio_
 ![image](https://github.com/user-attachments/assets/dda92f73-5b95-456e-8808-75e8eef72047)
 
 ```CPP
-double average = ( double ) ( num1 + num2 ) / 2;
-Console.WriteLine( average);
+27: double average = ( double ) ( num1 + num2 ) / 2;
+28: Console.WriteLine( average);
 ```
