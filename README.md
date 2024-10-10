@@ -44,9 +44,20 @@ Start _MS Visual Studio_
 
 ![image](https://github.com/user-attachments/assets/526b3e11-ca23-4770-858f-815fab7cada8)
 
-* Install _Microsoft Soft Basic_
+* Install _Microsoft Small Basic_
 
 ![image](https://github.com/user-attachments/assets/1414940d-f3c2-4674-ab6f-0d6939a3977e)
+
+![image](https://github.com/user-attachments/assets/95e490bb-56f7-47e7-9cb9-e56849431b85)
+
+_Add references_
+![image](https://github.com/user-attachments/assets/a427aae5-c933-4afa-86ea-bab60d67e03b)
+
+![image](https://github.com/user-attachments/assets/13319ad2-e271-44d1-b04e-f4761b622a72)
+
+![image](https://github.com/user-attachments/assets/3a02afa1-6662-43f1-8989-e182d7b0e934)
+
+![image](https://github.com/user-attachments/assets/ca101b65-5881-42d9-903a-b0610b2503a3)
 
 
 ###
