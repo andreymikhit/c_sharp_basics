@@ -105,29 +105,19 @@ _Add references_
 ![image](https://github.com/user-attachments/assets/fbd0dc5a-1274-46c9-99b9-bb667950c83f)
 
 ### Практика
-Запускаем _replit_ https://replit.com или _Colab_ https://colab.research.google.com/
+Запускаем _replit_ https://replit.com
 
-1) To compile code : “g++ filename.cpp -o anyname “
-2) To run program : “ ./anyname”
-For example : We make one file like helloworld.cpp
+Start _Replit_, Create Rebl -> C# -> Name as Sample1...
+
+![image](https://github.com/user-attachments/assets/25e2b072-bf7e-4bee-8bec-e47199d7a0f7)
+
 
 ```Cs
-// Program.cs
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace HelloWorld
-{
-  class Programm
-    {
-      static void Main(string[] args)
-      {
-        Console.WriteLine("Hello World! \nПривет, мир!" );
-        Console.ReadLine();
-      }
-    }
+class Program {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Hello World");
+  }
 }
 ```
