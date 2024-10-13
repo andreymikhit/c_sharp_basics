@@ -105,7 +105,11 @@ _Add references_
 ![image](https://github.com/user-attachments/assets/fbd0dc5a-1274-46c9-99b9-bb667950c83f)
 
 ### Практика
-Запускаем https://replit.com
+Запускаем _replit_ https://replit.com или _Collab_
+
+1) To compile code : “g++ filename.cpp -o anyname “
+2) To run program : “ ./anyname”
+For example : We make one file like helloworld.cpp
 
 ```Cs
 // Program.cs
