@@ -1,7 +1,17 @@
 # c_sharp_basics
 GeekBrains
 
-### Урок 1. Знакомство с языком C#
+### План
+* Урок 1. Java Intensive Course
+* Урок 2. Переменные, типы данных
+* Урок 3. Ветвления. Целые числа
+* Урок 4. Циклы
+* Урок 5. Функции
+* Урок 6. Разработка игры: часть 1
+* Урок 7. Разработка игры: часть 2
+* Практика
+
+### Урок 1. Java Intensive Course
 Зачем учить C#
 * Универсальность
 * Простота
@@ -94,3 +104,26 @@ _Add references_
 
 ![image](https://github.com/user-attachments/assets/fbd0dc5a-1274-46c9-99b9-bb667950c83f)
 
+### Практика
+* Запускаем https://replit.com
+
+```Cs
+// Program.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorld
+{
+  class Programm
+    {
+      static void Main(string[] args)
+      {
+        Console.WriteLine("Hello World! \nПривет, мир!" );
+        Console.ReadLine();
+      }
+    }
+}
+```
