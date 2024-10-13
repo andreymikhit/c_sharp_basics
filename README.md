@@ -124,7 +124,8 @@ class Program {
 
 Запускаем _Visual Studio Community_ [https://code.visualstudio.com](https://visualstudio.microsoft.com)
 
-Start _Visual Studio Community_
+* Start _Visual Studio Community_
+* 
 
 
 
