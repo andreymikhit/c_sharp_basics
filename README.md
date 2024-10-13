@@ -105,7 +105,7 @@ _Add references_
 ![image](https://github.com/user-attachments/assets/fbd0dc5a-1274-46c9-99b9-bb667950c83f)
 
 ### Практика
-* Запускаем https://replit.com
+Запускаем https://replit.com
 
 ```Cs
 // Program.cs
